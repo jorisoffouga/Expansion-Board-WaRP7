@@ -1,4 +1,5 @@
 # Expansion-Board-WaRP7
+![board](extension_warp7.png)
 
 Developpement Board for WaRP7 : 
 
