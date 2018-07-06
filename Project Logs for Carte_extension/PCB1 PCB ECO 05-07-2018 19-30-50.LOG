@@ -1,0 +1,18 @@
+Added Component: Designator=C7(1206(C))
+Add component. Clean all parameters for all variants
+Added Component: Designator=C8(1206(C))
+Add component. Clean all parameters for all variants
+Added Component: Designator=Y2(ABS-07)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=OCS1 Pin=C7-2
+Added Pin To Net: NetName=OCS1 Pin=U6-8
+Added Pin To Net: NetName=OCS1 Pin=Y2-1
+Added Net: Name=OCS1
+Added Pin To Net: NetName=OCS2 Pin=C8-2
+Added Pin To Net: NetName=OCS2 Pin=Y2-2
+Added Net: Name=OCS2
+Added Member To Class: ClassName=Sheet1 Member=Component C7 22pF
+Added Member To Class: ClassName=Sheet1 Member=Component C8 22pF
+Added Member To Class: ClassName=Sheet1 Member=Component Y2 Quartz

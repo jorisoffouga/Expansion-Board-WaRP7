@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=OCS2 Pin=U6-7
+Change Net Name : Old Net Name=OCS1 New Net Name=OSC1
+Change Net Name : Old Net Name=OCS2 New Net Name=OSC2

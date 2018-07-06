@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=3.3v Pin=U2-14
+Change Component Designator: OldDesignator=D0 NewDesignator=D8
+Change Component Designator: OldDesignator=D7 NewDesignator=D1
+Added Member To Class: ClassName=Sheet1 Member=Component D1 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component J1 Mikrobus_Warp7

@@ -1,0 +1,6 @@
+Added Component: Designator=U4(SOT-223)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=5v Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Member To Class: ClassName=Sheet1 Member=Component U4 NCP1117LPST33T3G

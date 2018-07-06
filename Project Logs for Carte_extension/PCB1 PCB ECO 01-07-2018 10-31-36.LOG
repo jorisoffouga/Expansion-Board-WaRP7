@@ -1,0 +1,121 @@
+Removed Pin From Net: NetName=NetJ2_1 Pin=J2-1
+Removed Pin From Net: NetName=NetJ2_2 Pin=J2-2
+Removed Pin From Net: NetName=NetJ2_3 Pin=J2-3
+Removed Pin From Net: NetName=NetJ2_4 Pin=J2-4
+Removed Pin From Net: NetName=NetJ2_5 Pin=J2-5
+Removed Pin From Net: NetName=NetJ2_6 Pin=J2-6
+Removed Pin From Net: NetName=NetJ2_7 Pin=J2-7
+Removed Pin From Net: NetName=NetJ2_8 Pin=J2-8
+Removed Pin From Net: NetName=NetJ2_8 Pin=U1-10
+Removed Pin From Net: NetName=NetJ2_7 Pin=U1-11
+Removed Pin From Net: NetName=NetJ2_6 Pin=U1-12
+Removed Pin From Net: NetName=NetJ2_5 Pin=U1-13
+Removed Pin From Net: NetName=NetJ2_4 Pin=U1-14
+Removed Pin From Net: NetName=NetJ2_3 Pin=U1-15
+Removed Pin From Net: NetName=NetJ2_2 Pin=U1-16
+Removed Pin From Net: NetName=NetJ2_1 Pin=U1-17
+Removed Member From Class: ClassName=Sheet1 Member=J2
+Added Component: Designator=D1(led)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(led)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3(led)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4(led)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5(led)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6(led)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D7(led)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D8(led)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(1206(C))
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(1206(C))
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(1206(C))
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(1206(C))
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(1206(C))
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(1206(C))
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(1206(C))
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(1206(C))
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetJ2_8 Pin=D5-1
+Added Pin To Net: NetName=NetJ2_7 Pin=D5-2
+Added Pin To Net: NetName=NetJ2_6 Pin=D6-1
+Added Pin To Net: NetName=NetJ2_5 Pin=D6-2
+Added Pin To Net: NetName=NetJ2_4 Pin=D7-1
+Added Pin To Net: NetName=NetJ2_3 Pin=D7-2
+Added Pin To Net: NetName=NetJ2_2 Pin=D8-1
+Added Pin To Net: NetName=NetJ2_1 Pin=D8-2
+Added Pin To Net: NetName=3.3v Pin=R3-2
+Added Pin To Net: NetName=3.3v Pin=R4-2
+Added Pin To Net: NetName=3.3v Pin=R5-2
+Added Pin To Net: NetName=3.3v Pin=R6-2
+Added Pin To Net: NetName=NetJ2_8 Pin=R7-1
+Added Pin To Net: NetName=3.3v Pin=R7-2
+Added Pin To Net: NetName=NetJ2_6 Pin=R8-1
+Added Pin To Net: NetName=3.3v Pin=R8-2
+Added Pin To Net: NetName=NetJ2_4 Pin=R9-1
+Added Pin To Net: NetName=3.3v Pin=R9-2
+Added Pin To Net: NetName=NetJ2_2 Pin=R10-1
+Added Pin To Net: NetName=3.3v Pin=R10-2
+Added Pin To Net: NetName=NetJ2_1 Pin=U1-10
+Added Pin To Net: NetName=NetJ2_3 Pin=U1-11
+Added Pin To Net: NetName=NetJ2_5 Pin=U1-12
+Added Pin To Net: NetName=NetJ2_7 Pin=U1-13
+Change Net Name : Old Net Name=NetJ2_1 New Net Name=NetD8_2
+Change Net Name : Old Net Name=NetJ2_2 New Net Name=NetD8_1
+Change Net Name : Old Net Name=NetJ2_3 New Net Name=NetD7_2
+Change Net Name : Old Net Name=NetJ2_4 New Net Name=NetD7_1
+Change Net Name : Old Net Name=NetJ2_5 New Net Name=NetD6_2
+Change Net Name : Old Net Name=NetJ2_6 New Net Name=NetD6_1
+Change Net Name : Old Net Name=NetJ2_7 New Net Name=NetD5_2
+Change Net Name : Old Net Name=NetJ2_8 New Net Name=NetD5_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R3-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=U1-17
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R4-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=U1-16
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R5-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=U1-15
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R6-1
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=U1-14
+Added Net: Name=NetD4_2
+Added Member To Class: ClassName=Sheet1 Member=Component D1 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D2 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D3 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D4 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D5 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D6 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D7 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D8 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component R3 150R
+Added Member To Class: ClassName=Sheet1 Member=Component R4 150R
+Added Member To Class: ClassName=Sheet1 Member=Component R5 150R
+Added Member To Class: ClassName=Sheet1 Member=Component R6 150R
+Added Member To Class: ClassName=Sheet1 Member=Component R7 150R
+Added Member To Class: ClassName=Sheet1 Member=Component R8 150R
+Added Member To Class: ClassName=Sheet1 Member=Component R9 150R
+Added Member To Class: ClassName=Sheet1 Member=Component R10 150R

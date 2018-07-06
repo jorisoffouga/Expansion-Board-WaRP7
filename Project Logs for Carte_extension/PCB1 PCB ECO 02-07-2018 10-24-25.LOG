@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=5v Pin=J5-11
+Removed Pin From Net: NetName=GND Pin=J5-12
+Removed Pin From Net: NetName=CS Pin=J5-16
+Removed Pin From Net: NetName=SDA Pin=J7-1
+Removed Pin From Net: NetName=MISO Pin=J8-1
+Removed Pin From Net: NetName=MOSI Pin=J10-1
+Removed Pin From Net: NetName=SCL Pin=J11-1
+Removed Pin From Net: NetName=SCK Pin=J13-1
+Removed Pin From Net: NetName=5v Pin=J?-3
+Removed Pin From Net: NetName=GND Pin=J?-4
+Removed Member From Class: ClassName=Sheet1 Member=J5
+Removed Member From Class: ClassName=Sheet1 Member=J6
+Removed Member From Class: ClassName=Sheet1 Member=J7
+Removed Member From Class: ClassName=Sheet1 Member=J8
+Removed Member From Class: ClassName=Sheet1 Member=J9
+Removed Member From Class: ClassName=Sheet1 Member=J10
+Removed Member From Class: ClassName=Sheet1 Member=J11
+Removed Member From Class: ClassName=Sheet1 Member=J13
+Removed Member From Class: ClassName=Sheet1 Member=J?
+Change Component Comment : Designator=R1 Old Comment=4,7K New Comment=22k
+Change Component Comment : Designator=R2 Old Comment=4,7K New Comment=22k

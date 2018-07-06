@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=C9 Pin=J12-5
+Removed Pin From Net: NetName=C8 Pin=J12-6
+Removed Pin From Net: NetName=5v Pin=J12-7
+Removed Pin From Net: NetName=GND Pin=J12-8
+Removed Member From Class: ClassName=Sheet1 Member=J12
+Added Component: Designator=J?(Header 4)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=C9 Pin=J?-1
+Added Pin To Net: NetName=C8 Pin=J?-2
+Added Pin To Net: NetName=5v Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Member To Class: ClassName=Sheet1 Member=Component J? Header_4

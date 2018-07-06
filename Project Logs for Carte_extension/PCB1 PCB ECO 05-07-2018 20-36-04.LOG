@@ -1,0 +1,9 @@
+Change Component Comment : Designator=C5 Old Comment=Condensateur New Comment=9pF
+Change Component Comment : Designator=C6 Old Comment=Condensateur New Comment=9pF
+Change Component Comment : Designator=Y2 Old Comment=Quartz New Comment=10MHz
+Change Net Name : Old Net Name=NetJ2_1 New Net Name=CANL
+Change Net Name : Old Net Name=NetJ3_1 New Net Name=AIN3
+Change Net Name : Old Net Name=NetJ3_2 New Net Name=AIN2
+Change Net Name : Old Net Name=NetJ3_4 New Net Name=AIN0
+Change Net Name : Old Net Name=NetJ5_1 New Net Name=CANH
+Added Member To Class: ClassName=Sheet1 Member=Component J4 Mikrobus
