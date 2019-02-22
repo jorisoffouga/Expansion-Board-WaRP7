@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=NetC3_2 Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=3.3v Pin=C5-2
+Removed Pin From Net: NetName=CANL Pin=J2-1
+Removed Pin From Net: NetName=NetJ2_2 Pin=J2-2
+Removed Pin From Net: NetName=NetJ2_2 Pin=R13-1
+Removed Pin From Net: NetName=CANH Pin=R13-2
+Removed Pin From Net: NetName=NetC3_2 Pin=U4-2
+Removed Pin From Net: NetName=NetC3_2 Pin=Y1-2
+Change Component Footprint: Designator=MIKROBUS WARP Old Footprint=MIKROBUS HOST CONN. New Footprint=MIKROBUS WARP CONN.
+Change Component Comment : Designator=J3 Old Comment=Bornier New Comment=Header_3
+Change Component Comment : Designator=C1 Old Comment=Condensateur New Comment=6pF
+Change Component Comment : Designator=C3 Old Comment=Condensateur New Comment=6pF
+Change Component Comment : Designator=C2 Old Comment=Condensateur New Comment=10uF
+Change Component Comment : Designator=C4 Old Comment=Condensateur New Comment=10uF
+Change Component Comment : Designator=C5 Old Comment=Condensateur New Comment=18nF
+Change Component Comment : Designator=C6 Old Comment=Condensateur New Comment=18pF
+Change Component Comment : Designator=C8 Old Comment=Condensateur New Comment=18pF
+Change Component Comment : Designator=C7 Old Comment=Condensateur New Comment=100nF
+Change Component Comment : Designator=U4 Old Comment=MCP7940N New Comment=MCP79410N
+Change Component Comment : Designator=R12 Old Comment=Resistance New Comment=10R
+Change Component Comment : Designator=R9 Old Comment=Resistance New Comment=22K
+Change Component Comment : Designator=R10 Old Comment=Resistance New Comment=22K
+Change Component Comment : Designator=R11 Old Comment=Resistance New Comment=100K
+Change Component Comment : Designator=R1 Old Comment=Resistance New Comment=100R
+Change Component Comment : Designator=R2 Old Comment=Resistance New Comment=100R
+Change Component Comment : Designator=R3 Old Comment=Resistance New Comment=100R
+Change Component Comment : Designator=R4 Old Comment=Resistance New Comment=100R
+Change Component Comment : Designator=R5 Old Comment=Resistance New Comment=100R
+Change Component Comment : Designator=R6 Old Comment=Resistance New Comment=100R
+Change Component Comment : Designator=R7 Old Comment=Resistance New Comment=100R
+Change Component Comment : Designator=R8 Old Comment=Resistance New Comment=100R
+Change Component Comment : Designator=R13 Old Comment=Resistance New Comment=100R
+Added Pin To Net: NetName=NetJ2_2 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=3.3v Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=NetC3_2 Pin=J2-1
+Added Pin To Net: NetName=CANH Pin=J2-2
+Added Pin To Net: NetName=CANL Pin=R13-1
+Added Pin To Net: NetName=NetC3_2 Pin=R13-2
+Added Pin To Net: NetName=NetJ2_2 Pin=U4-2
+Added Pin To Net: NetName=NetJ2_2 Pin=Y1-2
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetJ2_1
+Change Net Name : Old Net Name=NetJ1_3 New Net Name=AIN1
+Change Net Name : Old Net Name=NetJ2_2 New Net Name=NetC3_1
+Added Room: Name=Sheet1
