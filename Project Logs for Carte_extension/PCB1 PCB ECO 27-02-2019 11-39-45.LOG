@@ -1,0 +1,4 @@
+Change Component Comment : Designator=Y2 Old Comment=10MHz New Comment=8MHz
+Change Net Name : Old Net Name=CANH New Net Name=CAN_P
+Change Net Name : Old Net Name=CANL New Net Name=CAN_N
+Added Differential Pair: Name=CAN

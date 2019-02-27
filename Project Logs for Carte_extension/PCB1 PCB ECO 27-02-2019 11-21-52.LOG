@@ -1,0 +1,175 @@
+Change Component Comment : Designator=Y2 Old Comment=10MHz New Comment=8MHz
+Change component parameters: Designator = "C1"; Footprint = "0805"; UniqueID = "\DYBYQIKE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1759185"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "0805"; UniqueID = "\QAREORMO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "9402144"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "0805"; UniqueID = "\HCAFDKDN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1759185"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "0805"; UniqueID = "\OYKOWSIS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "9402144"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "0805"; UniqueID = "\CCQIMYTE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1759251"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6"; Footprint = "0805"; UniqueID = "\CAGSDTWQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2310683"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "0805"; UniqueID = "\RUEUQPPT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2522443"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8"; Footprint = "0805"; UniqueID = "\HQRYWCMD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2310683"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1"; Footprint = "led"; UniqueID = "\MQIXTHIG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2614990"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2"; Footprint = "led"; UniqueID = "\TXPDYPCO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2614990"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3"; Footprint = "led"; UniqueID = "\AABFAUXO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2614990"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4"; Footprint = "led"; UniqueID = "\KVVFUTLM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2614990"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5"; Footprint = "led"; UniqueID = "\GOIOHNXX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2614990"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D6"; Footprint = "led"; UniqueID = "\INPGJVOG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2614990"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D7"; Footprint = "led"; UniqueID = "\GNJEFHKU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2614990"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D8"; Footprint = "led"; UniqueID = "\UXFWICOL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2614990"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J1"; Footprint = "Header 6"; UniqueID = "\HIGGTUBY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2751311"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2"; Footprint = "Header 2"; UniqueID = "\ASAUXITY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "9733302"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3"; Footprint = "Header 3"; UniqueID = "\QBGQMXTL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "9733450"; VariantName = "[No Variations]"
+Change component parameters: Designator = "MIKROBUS DEVICE"; Footprint = "MIKROBUS HOST CONN."; UniqueID = "\AXTCTJHJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "SMD"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1593463"; VariantName = "[No Variations]"
+Change component parameters: Designator = "MIKROBUS WARP"; Footprint = "MIKROBUS WARP CONN."; UniqueID = "\ZABKYPRE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "SMD"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "9733345"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "0805"; UniqueID = "\PGIXWAOC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2693130"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "0805"; UniqueID = "\SUWXESVF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2693130"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "0805"; UniqueID = "\XLXENUWE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2693130"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "0805"; UniqueID = "\SOHUGLYK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2693130"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "0805"; UniqueID = "\UILOBWAT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2693130"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6"; Footprint = "0805"; UniqueID = "\WFMJIAVF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2693130"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7"; Footprint = "0805"; UniqueID = "\GEDAFEGX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2693130"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8"; Footprint = "0805"; UniqueID = "\NOTPKLUS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2693130"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9"; Footprint = "0805"; UniqueID = "\JQXHNIGK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2447607"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10"; Footprint = "0805"; UniqueID = "\UXXBIQRP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2447607"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11"; Footprint = "0805"; UniqueID = "\VLWCOOGB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2123382"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12"; Footprint = "0805"; UniqueID = "\VSYDIQMT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2446873"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13"; Footprint = "0805"; UniqueID = "\CAWUDNAA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2693130"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1"; Footprint = "SOIC 18"; UniqueID = "\UYDJYJEN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2851556"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2"; Footprint = "SOIC 16"; UniqueID = "\UNLQILCK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2400442"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3"; Footprint = "SOIC 8"; UniqueID = "\LCCWNVHJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1854077"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U4"; Footprint = "SOIC 8"; UniqueID = "\CXHGQTFW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2361122"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U5"; Footprint = "SOT-223"; UniqueID = "\QCUANVES"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2534283"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U6"; Footprint = "SOIC 18"; UniqueID = "\BGWVYMAI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1605565"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U7"; Footprint = "SOIC 8"; UniqueID = "\NNEFJBGS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1467746"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y1"; Footprint = "ABS-07"; UniqueID = "\BHYXDXJL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2467864"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y2"; Footprint = "ABS-07"; UniqueID = "\MGTNTQIC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2832065"; VariantName = "[No Variations]"
