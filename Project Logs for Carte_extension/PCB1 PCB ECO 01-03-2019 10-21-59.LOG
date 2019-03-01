@@ -1,0 +1,4 @@
+Change component parameters: Designator = "U6"; Footprint = "SOIC 18"; UniqueID = "\BGWVYMAI"
+Change component parameters. Clean all parameters for all variants
+Added Pin To Net: NetName=INT Pin=U6-12
+Added Pin To Net: NetName=3.3v Pin=U6-17
